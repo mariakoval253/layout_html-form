@@ -2,10 +2,6 @@
   margin-bottom: 20px;
 }
 
-.form-field {
+.form-field:not(:last-child) {
   margin-bottom: 10px;
-}
-
-.form-field-last {
-  margin: 0;
 }
